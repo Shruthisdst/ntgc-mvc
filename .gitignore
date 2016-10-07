@@ -1,0 +1,4 @@
+public/Photos/*.jpg
+public/Photos/*.JPG
+public/Photos/*/*.jpg
+public/Photos/*/*.JPG
